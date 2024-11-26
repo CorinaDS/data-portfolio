@@ -1,9 +1,9 @@
 site_name: Un tour por la ciencia de datos
 site_description: Un portafolio que muestra las aplicaciones de distintos tópicos en ciencia de datos
 site_author: Corina Navarrete
-site_url: https://corinads.github.io/portfolio
+site_url: https://corinads.github.io/data-portfolio
 
-repo_url: https://github.com/CorinaDS/portfolio
+repo_url: https://github.com/CorinaDS/data-portfolio
 
 copyright: "Copyright &copy; 2024 Corina Navarrete"
 
@@ -29,7 +29,7 @@ theme:
     - search.highlight
   custom_dir: "docs/overrides"
   font:
-    text: Google Sans
+    text: Roboto
     code: Regular
 
 plugins:
