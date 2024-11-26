@@ -1,0 +1,76 @@
+site_name: Un tour por la ciencia de datos
+site_description: Un portafolio que muestra las aplicaciones de distintos tópicos en ciencia de datos
+site_author: Corina Navarrete
+site_url: https://corinads.github.io/portfolio
+
+repo_url: https://github.com/CorinaDS/portfolio
+
+copyright: "Copyright &copy; 2024 Corina Navarrete"
+
+theme:
+  palette:
+    - scheme: default
+      #   primary: blue
+      #   accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - search.highlight
+  custom_dir: "docs/overrides"
+  font:
+    text: Google Sans
+    code: Regular
+
+plugins:
+  - search
+  - mkdocstrings
+  - git-revision-date
+  - mkdocs-jupyter:
+      include_source: True
+      ignore_h1_titles: True
+      execute: false
+      allow_errors: false
+      ignore: ["name.ipynb"]
+      execute_ignore: ["path/*.ipynb"]
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: true
+
+extra:
+  analytics:
+    provider: google
+    property: G-XXX
+
+nav:
+  - Home: index.md
+  - Unsupervised learning:
+      - template.ipynb
+  - Supervised learning:
+      - chapter_01/intro.ipynb
+      - chapter_01/basemaps.ipynb
+  - Web Scrapping:
+      - chapter_01/intro.ipynb
+      - chapter_01/basemaps.ipynb
+  - Time series:
+      - chapter_01/intro.ipynb
+      - chapter_01/basemaps.ipynb
+  - Deep Learning:
+      - chapter_02/colorbar.ipynb
+      - chapter_02/heatmap.ipynb
+  - NLP:
+        - chapter_02/colorbar.ipynb
+        - chapter_02/heatmap.ipynb  
+
