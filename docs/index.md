@@ -1,15 +1,54 @@
 
-A template for turning Jupyter notebooks and markdown files into a website.
+# Personal Portfolio
 
-Steps to use this template:
+### Hi 👋 My name is xxxxxxxxxxxxx
 
-- Click the **Use this template** green button on this GitHub repo and fill in the details to create a repo under your account.
-- Clone the newly created repo to your computer and open it using a Text Editor (e.g., Visual Studio Code).
-- Use the Text Editor to search `mkdocs-template` and replace it with your repo name.
-- Add/remove dependencies in `requirements.txt` if need.
-- Add folders (e.g., `chapter_01`) and files (e.g., `intro.ipynb`, `index.md`) to the `docs` folder.
-- Open `mkdocs.yml` and make several changes, including `site_name`, `site_url`, `repo_url`, and `nav`. If you don't want the notebooks to be executed when building the website, set `execute: False` under `plugins`.
-- Customize the issue template (`.github/ISSUE_TEMPLATE/config.yml`) if needed. 
-- Commit the changes using Git and push changes to GitHub.
-- Enable GitHub Pages through GitHub Settings - Pages. 
-- Check out the website at https://username.github.io/repo-name. 
+### 👑 About Me
+
+::cards:: cols=5
+
+- title: Presentation
+  content: Personal information
+  image: https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/barchart_ver_1.jpg
+
+
+- title: Education
+  content: Education, Certifications
+  image: https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/barchart_ver_1.jpg
+
+
+- title: Experience
+  content: Work and Tech Experience
+  image: https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/barchart_ver_1.jpg
+
+
+- title: More
+  content: Honors/Awards, Volunteering
+  image: https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/barchart_ver_1.jpg
+
+
+::/cards::
+
+### 🚀️ Portfolio
+
+::cards:: cols=5
+
+- title: 01 Project
+  content: Description
+  image: https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/barchart_ver_1.jpg
+
+- title: 02 Project
+  content: Description
+  image: https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/barchart_ver_1.jpg
+
+- title: 03 Project
+  content: Description
+  image: https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/barchart_ver_1.jpg
+
+
+- title: 03 Project
+  content: Description
+  image: https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/barchart_ver_1.jpg
+
+
+::/cards::
