@@ -1,7 +1,8 @@
+---
+hide:
+  - toc 
+---
 
-# Personal Portfolio
-
-### Hi 👋 My name is  Corina Navarrete
 
 ### 🚀️ Presentation
 
@@ -67,8 +68,11 @@
 ::/cards::
 
 ::cards:: cols=4
+
 - title: Maps in perspective
   content: Description
   image: images/logo_rs.jpg
   url: ./chapter_01/intro/
+
 ::/cards::
+
