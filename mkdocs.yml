@@ -63,7 +63,7 @@ plugins:
 
 # Markdown extensions
 markdown_extensions:
- - neoteroi.cards
+  - neoteroi.cards
   - neoteroi.timeline
   - neoteroi.projects
   - attr_list
