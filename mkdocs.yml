@@ -121,25 +121,3 @@ nav:
 
 
 
-<!---
-    comment
---->
-  - Home: index.md
-  - Unsupervised learning:
-      - template.ipynb
-  - Supervised learning:
-      - chapter_01/intro.ipynb
-      - chapter_01/basemaps.ipynb
-  - Web Scrapping:
-      - chapter_01/intro.ipynb
-      - chapter_01/basemaps.ipynb
-  - Time series:
-      - chapter_01/intro.ipynb
-      - chapter_01/basemaps.ipynb
-  - Deep Learning:
-      - chapter_02/colorbar.ipynb
-      - chapter_02/heatmap.ipynb
-  - NLP:
-        - chapter_02/colorbar.ipynb
-        - chapter_02/heatmap.ipynb  
-
