@@ -21,7 +21,7 @@ jobs:
           pip install codespell
           codespell --skip=".*,.git/*,*.csv,*.geojson,*.json,*.js,*.html,*cff,*.pdf" --ignore-words-list="aci,acount,acounts,fallow,hart,hist,nd,ned,ois,wqs"
       - name: Install dependencies
-        run: pip install mkdocs-material mkdocstrings mkdocs-git-revision-date-plugin mkdocs-jupyter mkdocs-pdf-export-plugin ipykernel
+        run: pip install mkdocs-material mkdocstrings mkdocs-git-revision-date-plugin mkdocs-jupyter mkdocs-pdf-export-plugin ipykernel neoteroi-mkdocs mkdocs-dracula-theme 
       - name: depoly
         run: mkdocs gh-deploy --force
         env:

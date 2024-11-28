@@ -1,37 +1,54 @@
+
+#Site description
 site_name: Un tour por la ciencia de datos
 site_description: Un portafolio que muestra las aplicaciones de distintos tópicos en ciencia de datos
 site_author: Corina Navarrete
 site_url: https://corinads.github.io/data-portfolio
 
+# Repository
 repo_url: https://github.com/CorinaDS/data-portfolio
 
 copyright: "Copyright &copy; 2024 Corina Navarrete"
 
+
+# Theme
 theme:
+  name: material
+  language: es
+  logo: images/logo_rs.jpg
+  favicon: images/logo_rs.jpg
+  features:
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  - navigation.indexes
+  - content.tooltips
+  - navigation.path
+  - content.code.annotate
+  - content.code.copy
+  - content.code.select
+  - navigation.tabs
+  - navigation.footer
   palette:
-    - scheme: default
-      #   primary: blue
-      #   accent: indigo
+    # Light mode
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: white
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
+
+    # Dark mode
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: black
       accent: indigo
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
-  name: material
-  icon:
-    repo: fontawesome/brands/github
-  features:
-    - navigation.instant
-    - search.highlight
-  custom_dir: "docs/overrides"
-  font:
-    text: Roboto
-    code: Regular
+        name: Switch to light mode   
 
+# Plugins
 plugins:
   - search
   - mkdocstrings
@@ -44,17 +61,67 @@ plugins:
       ignore: ["name.ipynb"]
       execute_ignore: ["path/*.ipynb"]
 
+# Markdown extensions
 markdown_extensions:
+ - neoteroi.cards
+  - neoteroi.timeline
+  - neoteroi.projects
   - attr_list
-  - toc:
-      permalink: true
+  - md_in_html
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist
+  - pymdownx.tabbed
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+extra_css:
+  - css/neoteroi-mkdocs.css
 
+
+# Customization
 extra:
   analytics:
     provider: google
-    property: G-XXX
+    property: G-XXX}
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/CorinaDS
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/cearth/
+    - icon: fontawesome/solid/globe
+      link: https://github.com/CorinaDS/data-portfolio
 
+
+# Tabl e of contents 
 nav:
+
+    - 🏠 Home: index.md
+    - 🚀️ Presentation:
+      - About Me : index.md
+      - Education:  index.md
+      - Experience:  index.md
+    - 🚀️ Portfolio:
+      - Projects: index.md
+      - Research: index.md
+      - Apps: index.md
+    - 🚀️ Blogs:
+      - Train with R: index.md
+      - Train with Python: index.md
+      - Gis and Remote sensing: index.md
+      - Maps in perspective: index.md
+
+
+
+
+
   - Home: index.md
   - Unsupervised learning:
       - template.ipynb

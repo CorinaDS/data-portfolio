@@ -1,15 +1,74 @@
 
-A template for turning Jupyter notebooks and markdown files into a website.
+# Personal Portfolio
 
-Steps to use this template:
+### Hi 👋 My name is  Corina Navarrete
 
-- Click the **Use this template** green button on this GitHub repo and fill in the details to create a repo under your account.
-- Clone the newly created repo to your computer and open it using a Text Editor (e.g., Visual Studio Code).
-- Use the Text Editor to search `mkdocs-template` and replace it with your repo name.
-- Add/remove dependencies in `requirements.txt` if need.
-- Add folders (e.g., `chapter_01`) and files (e.g., `intro.ipynb`, `index.md`) to the `docs` folder.
-- Open `mkdocs.yml` and make several changes, including `site_name`, `site_url`, `repo_url`, and `nav`. If you don't want the notebooks to be executed when building the website, set `execute: False` under `plugins`.
-- Customize the issue template (`.github/ISSUE_TEMPLATE/config.yml`) if needed. 
-- Commit the changes using Git and push changes to GitHub.
-- Enable GitHub Pages through GitHub Settings - Pages. 
-- Check out the website at https://username.github.io/repo-name. 
+### 🚀️ Presentation
+
+::cards:: cols=4
+
+- title: Presentation
+  content: Description
+  image: images/logo_rs.jpg
+  url: ./chapter_01/intro/
+
+- title: Education
+  content: Description
+  image: images/logo_rs.jpg
+  url: ./chapter_01/intro/
+
+- title: Experience
+  content: Description
+  image: images/logo_rs.jpg
+  url: ./chapter_01/intro/
+
+::/cards::
+
+### 🚀️ Portfolio
+
+::cards:: cols=4
+
+- title: Projects
+  content: Description
+  image: images/logo_rs.jpg
+  url: ./chapter_01/intro/
+
+- title: Research
+  content: Description
+  image: images/logo_rs.jpg
+  url: ./chapter_01/intro/
+
+- title: Apps
+  content: Description
+  image: images/logo_rs.jpg
+  url: ./chapter_01/intro/
+
+::/cards::
+
+###  🚀️ Blogs
+
+::cards:: cols=4
+
+- title: Train with R
+  content: Description
+  image: images/logo_rs.jpg
+  url: ./chapter_01/intro/
+
+- title: Train with Python
+  content: Description
+  image: images/logo_rs.jpg
+  url: ./chapter_01/intro/
+
+- title: Gis and Remote sensing
+  content: Description
+  image: images/logo_rs.jpg
+  url: ./chapter_01/intro/
+
+::/cards::
+
+::cards:: cols=4
+- title: Maps in perspective
+  content: Description
+  image: images/logo_rs.jpg
+  url: ./chapter_01/intro/
+::/cards::
