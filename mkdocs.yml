@@ -103,11 +103,10 @@ extra:
 
 # Tabl e of contents 
 nav:
-
     - 🏠 Home: index.md
-    - 🚀️ Presentation: [link](/data-portfolio/#presentation)
-    - 🚀️ Portfolio: [link](/data-portfolio/#portfolio)
-    - 🚀️ Blogs: [link](/data-portfolio/#blogs)
+#    - 🚀️ Presentation: [link](/data-portfolio/#presentation)
+#    - 🚀️ Portfolio: [link](/data-portfolio/#portfolio)
+#    - 🚀️ Blogs: [link](/data-portfolio/#blogs)
 
 
 
