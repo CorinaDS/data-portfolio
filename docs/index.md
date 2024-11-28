@@ -10,17 +10,17 @@ hide:
 
 - title: Presentation
   content: Description
-  image: images/logo_rs.jpg
+  image: https://emojisup.org/images/emoji/skype/emoticons-1-2/bar-chart@2x.png
   url: ./chapter_01/intro/
 
 - title: Education
   content: Description
-  image: images/logo_rs.jpg
+  image: https://emojisup.org/images/emoji/skype/emoticons-1-2/bar-chart@2x.png
   url: ./chapter_01/intro/
 
 - title: Experience
   content: Description
-  image: images/logo_rs.jpg
+  image: https://emojisup.org/images/emoji/skype/emoticons-1-2/bar-chart@2x.png
   url: ./chapter_01/intro/
 
 ::/cards::
