@@ -106,9 +106,9 @@ extra:
 nav:
 
     - 🏠 Home: index.md
-    - 🚀️ Presentation: [link](/path/to/data-portfolio.html#presentation)
-    - 🚀️ Portfolio: [link](/path/to/data-portfolio.html#portfolio)
-    - 🚀️ Blogs: [link](/path/to/data-portfolio.html#blogs)
+    - 🚀️ Presentation: [link](/data-portfolio.html#presentation)
+    - 🚀️ Portfolio: [link](/data-portfolio.html#portfolio)
+    - 🚀️ Blogs: [link](/data-portfolio.html#blogs)
 
 
 
