@@ -63,7 +63,8 @@ plugins:
 
 # Markdown extensions
 markdown_extensions:
-  - toc(permalink=true)
+  - toc:
+      permalink: true
   - neoteroi.cards
   - neoteroi.timeline
   - neoteroi.projects
