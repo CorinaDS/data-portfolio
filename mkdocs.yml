@@ -1,7 +1,7 @@
 
 #Site description
 site_name: Un tour por la ciencia de datos
-site_description: Un portafolio que muestra las aplicaciones de distintos tópicos en ciencia de datos
+site_description: Página personal, con enlace a mis proyectos e información acerca de mí
 site_author: Corina Navarrete
 site_url: https://corinads.github.io/data-portfolio
 
@@ -34,7 +34,7 @@ theme:
     - media: '(prefers-color-scheme: light)'
       scheme: default
       primary: white
-      accent: indigo
+      accent: deep orange
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -43,7 +43,7 @@ theme:
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
       primary: black
-      accent: indigo
+      accent: deep orange
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode   
@@ -104,9 +104,9 @@ extra:
 
 # Tabl e of contents 
 nav:
-    - 🏠 Home: index.md
-    - 🚀️ Presentation: /data-portfolio/#presentation
-    - 🚀️ Portfolio: /data-portfolio/#portfolio
+    - 🏠 Inicio: index.md
+    - 🚀️ Presentación: /data-portfolio/#presentation
+    - 🚀️ Portafolio: /data-portfolio/#portfolio
     - 🚀️ Blogs: /data-portfolio/#blogs
 
 
