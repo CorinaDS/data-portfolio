@@ -105,9 +105,9 @@ extra:
 # Tabl e of contents 
 nav:
     - 🏠 Home: index.md
-    - 🚀️ Presentation: index.md/#presentation)
-    - 🚀️ Portfolio: index.md/#portfolio)
-    - 🚀️ Blogs: index.md/#blogs)
+    - 🚀️ Presentation: #presentation
+    - 🚀️ Portfolio: #portfolio
+    - 🚀️ Blogs: #blogs
 
 
 
