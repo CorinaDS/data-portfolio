@@ -5,7 +5,7 @@ hide:
 ---
 
 
-## ** Sobre mí**
+## ** Sobre mí** 
 
 * **Áreas de especialización**: 📊 Estadística  📊Ciencia de datos 📊Sistemas de información geográfica y sensoramiento remoto
 * **Trabajo actual**: 
