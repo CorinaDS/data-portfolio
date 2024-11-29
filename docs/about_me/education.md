@@ -1,8 +1,8 @@
 #
-### Educación
+## **Educación** 
 
 <p>
-    <img src="../../images/about_me/usm.png" alt="Smiley face image"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Unalm_logo.png" alt="Smiley face image"
       style="float:left; width:90px; height:90px;">
   </a>
   <span style="vertical-align:bottom">
@@ -16,8 +16,7 @@
 
 
 <p>
-  <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/pregrado.pdf">
-    <img src="../../images/about_me/usm.png" alt="Smiley face image"
+    <img src="https://tusdecisionestehacengrande.ucsp.edu.pe/img/logo-ucsp.png" alt="Smiley face image"
       style="float:left; width:90px; height:90px;">
   </a>
   <span style="vertical-align:bottom">
@@ -29,8 +28,7 @@
 
 <hr size="30">
 <p>
-  <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/pregrado.pdf">
-    <img src="../../images/about_me/usm.png" alt="Smiley face image"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/INEI_Logo.jpg" alt="Smiley face image"
       style="float:left; width:90px; height:90px;">
   </a>
   <span style="vertical-align:bottom">
@@ -43,8 +41,7 @@
 <hr size="30">
 
 <p>
-  <a href="https://github.com/fralfaro/portfolio/blob/main/docs/files/education/pregrado.pdf">
-    <img src="../../images/about_me/usm.png" alt="Smiley face image"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Unalm_logo.png" alt="Smiley face image"
       style="float:left; width:90px; height:90px;">
   </a>
   <span style="vertical-align:bottom">
@@ -55,12 +52,12 @@
 </p>
 
 
-### Certificaciones
+## **Certificaciones** 
 
 
 <p>
   <img src="https://dmc.pe/wp-content/uploads/2021/01/Group-4-1.png" alt="Smiley face image"
-    style="float:left; width:55px; height:55px;">
+    style="float:left; width:65px; height:55px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>DMC Perú </strong><br>
     &nbsp;Certificaciones digitales
@@ -123,8 +120,8 @@
 <hr size="30">
 
 <p>
-  <img src="https://cdn.prod.website-files.com/60b56cdf18d38e15ce088579/60b580ab8d45223dc593968d_pucp%7D.svg" alt="Smiley face image"
-    style="float:left; width:55px; height:55px;">
+  <img src="https://uploads-ssl.webflow.com/61bceaebf406fb1dd5db2dd0/625f3d4b7fe767a55bbd8995_Logo%20PUCP-poster-00001.jpg" alt="Smiley face image"
+    style="float:left; width:65px; height:55px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>Pontificie Universidad Católica del Perú</strong><br>
     &nbsp;Certificaciones digital
