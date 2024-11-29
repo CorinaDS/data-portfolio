@@ -1,7 +1,7 @@
 
 #Site description
 site_name: Un tour por la ciencia de datos
-site_description: Un portafolio que muestra las aplicaciones de distintos tópicos en ciencia de datos
+site_description: Página personal, con enlace a mis proyectos e información acerca de mí
 site_author: Corina Navarrete
 site_url: https://corinads.github.io/data-portfolio
 
@@ -34,7 +34,7 @@ theme:
     - media: '(prefers-color-scheme: light)'
       scheme: default
       primary: white
-      accent: indigo
+      accent: deep orange
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -43,7 +43,7 @@ theme:
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
       primary: black
-      accent: indigo
+      accent: deep orange
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode   
@@ -63,7 +63,9 @@ plugins:
 
 # Markdown extensions
 markdown_extensions:
- - neoteroi.cards
+  - toc:
+      permalink: true
+  - neoteroi.cards
   - neoteroi.timeline
   - neoteroi.projects
   - attr_list
@@ -102,44 +104,11 @@ extra:
 
 # Tabl e of contents 
 nav:
-
-    - 🏠 Home: index.md
-    - 🚀️ Presentation:
-      - About Me : index.md
-      - Education:  index.md
-      - Experience:  index.md
-    - 🚀️ Portfolio:
-      - Projects: index.md
-      - Research: index.md
-      - Apps: index.md
-    - 🚀️ Blogs:
-      - Train with R: index.md
-      - Train with Python: index.md
-      - Gis and Remote sensing: index.md
-      - Maps in perspective: index.md
+    - 🏠 Inicio: index.md
+    - 🚀️ Presentación: /data-portfolio/#presentation
+    - 🚀️ Portafolio: /data-portfolio/#portfolio
+    - 🚀️ Blogs: /data-portfolio/#blogs
 
 
 
-
-<!---
-    comment
---->
-  - Home: index.md
-  - Unsupervised learning:
-      - template.ipynb
-  - Supervised learning:
-      - chapter_01/intro.ipynb
-      - chapter_01/basemaps.ipynb
-  - Web Scrapping:
-      - chapter_01/intro.ipynb
-      - chapter_01/basemaps.ipynb
-  - Time series:
-      - chapter_01/intro.ipynb
-      - chapter_01/basemaps.ipynb
-  - Deep Learning:
-      - chapter_02/colorbar.ipynb
-      - chapter_02/heatmap.ipynb
-  - NLP:
-        - chapter_02/colorbar.ipynb
-        - chapter_02/heatmap.ipynb  
 

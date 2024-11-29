@@ -1,26 +1,27 @@
 ---
 hide:
-  - toc 
+  - navigation
+  - toc
 ---
 
 
-### 🚀️ Presentation
+### 🚀️ Presentación
 
 ::cards:: cols=4
 
-- title: Presentation
-  content: Description
-  image: images/logo_rs.jpg
+- title: Sobre mí
+  content: Aquí podrás conocer algunos aspectos de mi vida
+  image: https://emojisup.org/images/emoji/skype/emoticons-1-2/bar-chart@2x.png
   url: ./chapter_01/intro/
 
-- title: Education
-  content: Description
-  image: images/logo_rs.jpg
+- title: Educación
+  content: Mis estudios, certificaciones y tecnologías de dominio
+  image: https://emojisup.org/images/emoji/skype/emoticons-1-2/bar-chart@2x.png
   url: ./chapter_01/intro/
 
-- title: Experience
-  content: Description
-  image: images/logo_rs.jpg
+- title: Experiencia
+  content: Experiencias laborales
+  image: https://emojisup.org/images/emoji/skype/emoticons-1-2/bar-chart@2x.png
   url: ./chapter_01/intro/
 
 ::/cards::
@@ -29,18 +30,18 @@ hide:
 
 ::cards:: cols=4
 
-- title: Projects
-  content: Description
+- title: Proyectos
+  content: Proyectos con aplicaciones de diferentes tópicos de estadística y ciencia de datos
   image: images/logo_rs.jpg
   url: ./chapter_01/intro/
 
-- title: Research
-  content: Description
+- title: Investigación
+  content: Mi contribucion en proyectos de investigación
   image: images/logo_rs.jpg
   url: ./chapter_01/intro/
 
 - title: Apps
-  content: Description
+  content: Una mirada a mis aplicativos web 
   image: images/logo_rs.jpg
   url: ./chapter_01/intro/
 
@@ -51,17 +52,17 @@ hide:
 ::cards:: cols=4
 
 - title: Train with R
-  content: Description
+  content: Mi blog para compartir temas de estadística y ciencia de datos utilizando R
   image: images/logo_rs.jpg
   url: ./chapter_01/intro/
 
 - title: Train with Python
-  content: Description
+  content: Mi blog para compartir temas de estadística y ciencia de datos utilizando Python
   image: images/logo_rs.jpg
   url: ./chapter_01/intro/
 
-- title: Gis and Remote sensing
-  content: Description
+- title: DataTools
+  content:  Mi blog para compartir acerca de SQL, Power BI, Excel, Cloud computing, Big data y más!
   image: images/logo_rs.jpg
   url: ./chapter_01/intro/
 
@@ -69,8 +70,8 @@ hide:
 
 ::cards:: cols=4
 
-- title: Maps in perspective
-  content: Description
+- title: AITools
+  content: Un cuaderno de experimentos es diferentes modelos y arquitecturas de IA
   image: images/logo_rs.jpg
   url: ./chapter_01/intro/
 
