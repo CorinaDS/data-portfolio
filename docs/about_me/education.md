@@ -87,7 +87,6 @@
 * Data Mining con R
  * Árboles de clasificación con R 
  * Técnicas multivariadas con R
- * Series de tiempo con R
 * Diseños experimentales con R 
  *  Estadística no paramétrica con R
  * Series de tiempo con R
