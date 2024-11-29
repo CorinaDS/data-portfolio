@@ -29,7 +29,7 @@
 <hr size="30">
 <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/INEI_Logo.jpg" alt="Smiley face image"
-      style="float:left; width:80px; height:55px;">
+      style="float:left; width:85px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Especialización en estadística aplicada</strong><br>
@@ -57,7 +57,7 @@
 
 <p>
   <img src="https://dmc.pe/wp-content/uploads/2021/01/Group-4-1.png" alt="Smiley face image"
-    style="float:left; width:80px; height:55px;">
+    style="float:left; width:80px; height:45px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>DMC Perú </strong><br>
     &nbsp;Certificaciones digitales
