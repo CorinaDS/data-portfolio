@@ -4,8 +4,6 @@ hide:
   - toc
 ---
 #
-
-
 ## **Acerca de mí** 
 
 * **Áreas de especialización**: 📊 Estadística  📊Ciencia de datos 📊Sistemas de información geográfica y sensoramiento remoto
