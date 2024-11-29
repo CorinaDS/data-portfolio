@@ -17,7 +17,7 @@
 
 <p>
     <img src="https://tusdecisionestehacengrande.ucsp.edu.pe/img/logo-ucsp.png" alt="Smiley face image"
-      style="float:left; width:90px; height:55px;">
+      style="float:left; width:95px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Diplomado de  Ciencia de datos</strong><br>
