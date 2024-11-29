@@ -5,13 +5,15 @@ hide:
 ---
 
 
-## ** Sobre mí** 
+## **Acerca de mí** 
 
 * **Áreas de especialización**: 📊 Estadística  📊Ciencia de datos 📊Sistemas de información geográfica y sensoramiento remoto
 * **Trabajo actual**: 
     * 💻 Consultora e Instructora en estadística y ciencia de datos (Código Bosque)
 
-## **  Intereses** 
+
+## **Intereses y actividades** 
+
 👩‍💻Desarrollo de contenidos  creativos   | 🚴🚶Spinning y largas caminatas con música
 
 ⚡️ Series de tiempo y aprendizaje profundo.  <br>
