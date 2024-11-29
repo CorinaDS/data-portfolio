@@ -3,7 +3,7 @@
 
 <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Unalm_logo.png" alt="Smiley face image"
-      style="float:left; width:90px; height:90px;">
+      style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Candidato a Maestro </strong><br>
@@ -17,7 +17,7 @@
 
 <p>
     <img src="https://tusdecisionestehacengrande.ucsp.edu.pe/img/logo-ucsp.png" alt="Smiley face image"
-      style="float:left; width:90px; height:90px;">
+      style="float:left; width:72px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Diplomado de  Ciencia de datos</strong><br>
@@ -29,7 +29,7 @@
 <hr size="30">
 <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/INEI_Logo.jpg" alt="Smiley face image"
-      style="float:left; width:90px; height:90px;">
+      style="float:left; width:72px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Especialización en estadística aplicada</strong><br>
@@ -42,7 +42,7 @@
 
 <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Unalm_logo.png" alt="Smiley face image"
-      style="float:left; width:90px; height:90px;">
+      style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Título de Ingeniero</strong><br>
@@ -57,7 +57,7 @@
 
 <p>
   <img src="https://dmc.pe/wp-content/uploads/2021/01/Group-4-1.png" alt="Smiley face image"
-    style="float:left; width:65px; height:55px;">
+    style="float:left; width:72px; height:55px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>DMC Perú </strong><br>
     &nbsp;Certificaciones digitales
@@ -108,7 +108,7 @@
 
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/universidad-esan.svg" alt="Smiley face image"
-    style="float:left; width:55px; height:55px;">
+    style="float:left; width:65px; height:60px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>Universidad ESAN</strong><br>
     &nbsp;Certificaciones digital
@@ -121,7 +121,7 @@
 
 <p>
   <img src="https://uploads-ssl.webflow.com/61bceaebf406fb1dd5db2dd0/625f3d4b7fe767a55bbd8995_Logo%20PUCP-poster-00001.jpg" alt="Smiley face image"
-    style="float:left; width:65px; height:55px;">
+    style="float:left; width:70px; height:55px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>Pontificie Universidad Católica del Perú</strong><br>
     &nbsp;Certificaciones digital
