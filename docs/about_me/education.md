@@ -7,7 +7,7 @@
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Candidato a Maestro </strong><br>
-    &nbsp;Maestría en estadística aplicada<br>
+    &nbsp;Maestría en Estadística Aplicada<br>
     &nbsp;Universidad Nacional Agraria La Molina  2024 - actualidad
   </span>
 </p>
@@ -32,7 +32,7 @@
       style="float:left; width:90px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
-    &nbsp;<strong>Especialización en estadística aplicada</strong><br>
+    &nbsp;<strong>Especialización en Estadística Aplicada</strong><br>
     &nbsp;Instituto Nacional de estadística e informática  2023
   </span>
 </p>
@@ -111,7 +111,7 @@
     style="float:left; width:65px; height:60px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>Universidad ESAN</strong><br>
-    &nbsp;Certificaciones digital
+    &nbsp;Certificación digital
   </span>
 </p>
 
@@ -124,7 +124,7 @@
     style="float:left; width:80px; height:60px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>Pontificie Universidad Católica del Perú</strong><br>
-    &nbsp;Certificaciones digital
+    &nbsp;Certificación digital
   </span>
 </p>
 
