@@ -17,10 +17,10 @@
 
 <p>
     <img src="https://tusdecisionestehacengrande.ucsp.edu.pe/img/logo-ucsp.png" alt="Smiley face image"
-      style="float:left; width:103px; height:55px;">
+      style="float:left; width:110px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
-    &nbsp;<strong>Diplomado de  Ciencia de datos</strong><br>
+    &nbsp;<strong>Diplomado en  Ciencia de datos</strong><br>
     &nbsp;Universidad Católica San Pablo  2023
   </span>
 </p>
