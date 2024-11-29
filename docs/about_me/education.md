@@ -82,9 +82,15 @@
   </span>
 </p>
 
-* Análisis de datos con R | Programación con R | Series de tiempo con R | Data Mining con R
-* Diseños experimentales con R | Técnicas multivariadas con R | Árboles de clasificación con R
+* Análisis de datos con R 
+* Programación con R 
+* Data Mining con R
+ * Árboles de clasificación con R 
+ * Técnicas multivariadas con R
+ * Series de tiempo con R
+* Diseños experimentales con R 
  *  Estadística no paramétrica con R
+ * Series de tiempo con R
 
 
 <hr size="30">
