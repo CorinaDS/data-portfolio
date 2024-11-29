@@ -17,7 +17,7 @@ hide:
 - title: Educación
   content: Mis estudios, certificaciones y tecnologías de dominio
   image: https://emojisup.org/images/emoji/skype/emoticons-1-2/bar-chart@2x.png
-  url: ./education/education/
+  url: ./about_me/education/
 
 - title: Experiencia
   content: Experiencias laborales
