@@ -57,7 +57,7 @@
 
 <p>
   <img src="https://dmc.pe/wp-content/uploads/2021/01/Group-4-1.png" alt="Smiley face image"
-    style="float:left; width:80px; height:40px;">
+    style="float:left; width:90px; height:40px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>DMC Perú </strong><br>
     &nbsp;Certificaciones digitales
