@@ -26,7 +26,7 @@ hide:
 
 ::/cards::
 
-### 🚀️ Portfolio
+### 🚀️ Portafolio
 
 ::cards:: cols=4
 
