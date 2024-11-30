@@ -11,17 +11,17 @@ hide:
 
 - title: Sobre mí
   content: Aquí podrás conocer algunos aspectos de mi vida
-  image: https://emojisup.org/images/emoji/skype/emoticons-1-2/bar-chart@2x.png
+  image: https://emojisup.org/images/emoji/joypixels/9-0/direct-hit@2x.png
   url: ./about_me/description/
 
 - title: Educación
   content: Mis estudios, certificaciones y tecnologías de dominio
-  image: https://emojisup.org/images/emoji/skype/emoticons-1-2/bar-chart@2x.png
+  image: https://emojisup.org/images/emoji/messenger/1-0/books@2x.png
   url: ./about_me/education/
 
 - title: Experiencia
   content: Experiencias laborales
-  image: https://emojisup.org/images/emoji/skype/emoticons-1-2/bar-chart@2x.png
+  image: https://emojisup.org/images/emoji/facebook/13-1/woman-office-worker-medium-skin-tone@2x.png
   url: ./chapter_01/intro/
 
 ::/cards::
@@ -32,17 +32,17 @@ hide:
 
 - title: Proyectos
   content: Proyectos con aplicaciones de diferentes tópicos de estadística y ciencia de datos
-  image: images/logo_rs.jpg
+  image: https://emojisup.org/images/emoji/google/15-1/memo@2x.png
   url: ./chapter_01/intro/
 
 - title: Investigación
   content: Mi contribucion en proyectos de investigación
-  image: images/logo_rs.jpg
+  image: https://emojisup.org/images/emoji/openmoji/13-1/lab-coat@2x.png
   url: ./chapter_01/intro/
 
 - title: Apps
   content: Una mirada a mis aplicativos web 
-  image: images/logo_rs.jpg
+  image: https://emojisup.org/images/emoji/skype/emoticons-1-2/globe-with-meridians@2x.png
   url: ./chapter_01/intro/
 
 ::/cards::
@@ -53,12 +53,12 @@ hide:
 
 - title: Train with R
   content: Mi blog para compartir temas de estadística y ciencia de datos utilizando R
-  image: images/logo_rs.jpg
+  image: https://www.r-project.org/Rlogo.png
   url: ./chapter_01/intro/
 
 - title: Train with Python
   content: Mi blog para compartir temas de estadística y ciencia de datos utilizando Python
-  image: images/logo_rs.jpg
+  image: https://blog.accredian.com/wp-content/uploads/2019/04/Python-logo.jpg
   url: ./chapter_01/intro/
 
 - title: DataTools
