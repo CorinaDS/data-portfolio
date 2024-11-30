@@ -58,12 +58,12 @@ hide:
 
 - title: Train with Python
   content: Mi blog para compartir temas de estadística y ciencia de datos utilizando Python
-  image: https://blog.accredian.com/wp-content/uploads/2019/04/Python-logo.jpg
+  image: https://www.svgrepo.com/show/373337/python-opened.svg
   url: ./chapter_01/intro/
 
 - title: DataTools
   content:  Mi blog para compartir acerca de SQL, Power BI, Excel, Cloud computing, Big data y más!
-  image: images/logo_rs.jpg
+  image: https://www.svgrepo.com/show/324145/data-graph-chart-report.svg
   url: ./chapter_01/intro/
 
 ::/cards::
@@ -72,7 +72,7 @@ hide:
 
 - title: AITools
   content: Un cuaderno de experimentos es diferentes modelos y arquitecturas de IA
-  image: images/logo_rs.jpg
+  image: https://www.svgrepo.com/show/450794/deep-learning.svg
   url: ./chapter_01/intro/
 
 ::/cards::
