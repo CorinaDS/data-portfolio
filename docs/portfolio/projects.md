@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-title: "Portfolio"
+title: " "
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
