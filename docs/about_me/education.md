@@ -6,9 +6,9 @@
       style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
-    &nbsp;<strong>Candidato a Maestro </strong><br>
-    &nbsp;Maestría en Estadística Aplicada<br>
-    &nbsp;Universidad Nacional Agraria La Molina  2024 - actualidad
+    &nbsp;<strong>Maestría en Estadística Aplicada</strong><br>
+    &nbsp;Universidad Nacional Agraria La Molina  2024 - actualidad<br>
+    &nbsp;
   </span>
 </p>
 
@@ -45,9 +45,9 @@
       style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
-    &nbsp;<strong>Título de Ingeniero</strong><br>
-    &nbsp;Ciencias forestales<br>
-    &nbsp;Universidad Nacional Agraria La Molina  2016
+    &nbsp;<strong>Ingeniería forestal</strong><br>
+    &nbsp;Universidad Nacional Agraria La Molina  2016<br>
+    &nbsp;Línea de especialización: datos y tecnologías.
   </span>
 </p>
 

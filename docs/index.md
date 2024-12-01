@@ -71,7 +71,7 @@ hide:
 ::cards:: cols=4
 
 - title: AITools
-  content: Un cuaderno de experimentos es diferentes modelos y arquitecturas de IA
+  content: Un compilado de experimentos en diferentes modelos y arquitecturas de IA
   image: https://www.svgrepo.com/show/450794/deep-learning.svg
   url: ./chapter_01/intro/
 
