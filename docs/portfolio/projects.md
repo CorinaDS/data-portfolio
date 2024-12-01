@@ -1,8 +1,13 @@
-# Portfolio
 ---
-## Natural Language Processing
+permalink: /portfolio/
+title: "Portfolio"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bookmark"
+---
+## 📈Sample 1
 
-### CS224n: Natural Language Processing with Deep Learning
+### ⭐️ Project 1
 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
@@ -15,7 +20,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src="images/logo_rs.jpg"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### ⭐️ Project 2
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 
@@ -24,7 +29,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src="images/logo_rs.jpg"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### ⭐️ Project 3
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
@@ -35,7 +40,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+### ⭐️ Project  4
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
@@ -46,9 +51,9 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-## Data Science
+## 📈 Sample 2
 
-### Credit Risk Prediction Web App
+### ⭐️ Project 1
 
 [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
@@ -60,7 +65,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### ⭐️ Project 2
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
@@ -71,37 +76,37 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### Predict Breast Cancer with RF, PCA and SVM using Python
+### ⭐️ Project 3
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
 
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
+<div style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor mi tincidunt pellentesque finibus. Phasellus interdum, erat sit amet sollicitudin facilisis, massa urna luctus diam, et elementum justo tortor sed dui. Proin faucibus consectetur massa in molestie.</div>
 <br>
 <center><img src="images/logo_rs.jpg"/></center>
 <br>
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
+### ⭐️ Project 4
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-title_title_title-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
+<div style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor mi tincidunt pellentesque finibus. Phasellus interdum, erat sit amet sollicitudin facilisis, massa urna luctus diam, et elementum justo tortor sed dui. Proin faucibus consectetur massa in molestie. Etiam viverra erat vel felis aliquet lobortis.</div>
 <br>
 <center><img src="images/logo_rs.jpg"/></center>
 <br>
 
 ---
-## Filmed by me
+## 📈 Sample 3
 
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
+[![xxxxxxxxx](https://img.shields.io/badge/YouTube-Datos_en_escena-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/@Datosenescena)
 
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
+<div style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor mi tincidunt pellentesque finibus. Phasellus interdum, erat sit amet sollicitudin facilisis, massa urna luctus diam, et elementum justo tortor sed dui. Proin faucibus consectetur massa in molestie. Etiam viverra erat vel felis aliquet lobortis.</div>
 <br>
 
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
+- [Lorem ipsum (Lorem ipsum)](https://www.youtube.com/@Datosenescena)
+- [Lorem ipsum](https://www.youtube.com/@Datosenescena)
+- [Lorem ipsum](https://www.youtube.com/@Datosenescena)
+- [Lorem ipsum (Lorem ipsum)](https://www.youtube.com/@Datosenescena)
 
 ---
