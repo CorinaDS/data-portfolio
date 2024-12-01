@@ -33,7 +33,7 @@ hide:
 - title: Proyectos
   content: Proyectos con aplicaciones de diferentes tópicos de estadística y ciencia de datos
   image: https://emojisup.org/images/emoji/google/15-1/memo@2x.png
-  url: ./chapter_01/intro/
+  url: ./portfolio/projects/
 
 - title: Investigación
   content: Mi contribucion en proyectos de investigación
