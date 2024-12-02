@@ -6,6 +6,7 @@ hide:
 #
 ## **Acerca de mí** 
 ![Image title](https://avatars.githubusercontent.com/u/176454459?v=4){ align=left }
+
 **Áreas de especialización**:  <br>📊 Estadística  📰Ciencia de datos 🌏Análisis de datos espaciales<br />
 **Trabajo actual**:  <br>💻 Consultora e Instructora en estadística y ciencia de datos (Código Bosque)
 ## **Intereses y actividades** 
@@ -19,7 +20,9 @@ hide:
 ✨ Procesamiento del lenguaje natural e investigación reproducible. <br> 
 ✨ Modelamiento espacial de especies,  incendios forestales y deforestación. <br> 
 
-## **Información de contacto** 
+
+
+## **Información de contacto**  
 
 <p align="left"> 
 <a href="https://github.com/CorinaDS" target="_blank" rel="noreferrer"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png" width="32" height="32" /></a>
