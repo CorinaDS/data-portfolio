@@ -14,6 +14,8 @@ copyright: "Copyright &copy; 2024 Corina Navarrete"
 # Theme
 theme:
   name: material
+  font:
+    text: Lato
   language: es
   logo: images/favicon.png
   favicon: images/favicon.png
