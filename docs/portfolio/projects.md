@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet [***xxxxxxxxxxxxxxxxxxxxxx***](https://github.com/Cor
 
 <div style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor mi tincidunt pellentesque finibus. Phasellus interdum, erat sit amet sollicitudin facilisis, massa urna luctus diam, et elementum justo tortor sed dui. Proin faucibus consectetur massa in molestie. Etiam viverra erat vel felis aliquet lobortis.</div>
 
-<center><img src="../images/logo_rs.jpg"/></center>   
+<center><img src="../../docs/images/logo_rs.jpg"/></center>   
 
 ---
 ### ⭐️ Project 3
