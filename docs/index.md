@@ -38,7 +38,7 @@ hide:
 - title: Investigación
   content: Mi contribucion en proyectos de investigación
   image: https://emojisup.org/images/emoji/openmoji/13-1/lab-coat@2x.png
-  url: ./chapter_01/intro/
+  url: ./portfolio/research/
 
 - title: Apps
   content: Una mirada a mis aplicativos web 
