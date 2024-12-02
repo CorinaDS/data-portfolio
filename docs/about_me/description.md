@@ -13,14 +13,14 @@ hide:
 
 ## **Intereses y actividades** 
 
-👩‍💻Desarrollo de contenidos  creativos   | 🚴🚶Spinning y largas caminatas con música
+👩‍💻🎓💝 Desarrollo de contenidos  creativos   | 🚴🚶Spinning y largas caminatas con música
 
-💡 Series de tiempo y aprendizaje profundo.  <br>
-💡 Me encantan las estadísticas. <br> 
-💡 Ingeniería de Aprendizaje automático.  <br> 
-💡 Computación en la nube . <br> 
-💡 Modelamiento espacial de especies,  incendios forestales y deforestación. <br> 
-💡 Procesamiento del lenguaje natural e investigación reproducible. <br> 
+✨ Series de tiempo y aprendizaje profundo.  <br>
+✨ Me encantan las estadísticas. <br> 
+✨ Ingeniería de Aprendizaje automático.  <br> 
+✨ Computación en la nube . <br> 
+✨ Procesamiento del lenguaje natural e investigación reproducible. <br> 
+✨ Modelamiento espacial de especies,  incendios forestales y deforestación. <br> 
 
 ## **Información de contacto** 
 
