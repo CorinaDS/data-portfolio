@@ -6,9 +6,8 @@ hide:
 #
 ## **Acerca de mí** 
 ![Image title](https://avatars.githubusercontent.com/u/176454459?v=4){ align=left }
-**Áreas de especialización**: 📊 Estadística  📰Ciencia de datos 🌏Análisis de datos espaciales<br />
-**Trabajo actual**: 
-    * 💻 Consultora e Instructora en estadística y ciencia de datos (Código Bosque)
+**Áreas de especialización**:  <br>📊 Estadística  📰Ciencia de datos 🌏Análisis de datos espaciales<br />
+**Trabajo actual**:  <br>💻 Consultora e Instructora en estadística y ciencia de datos (Código Bosque)
 ## **Intereses y actividades** 
 
 👩‍💻🎓💝 Desarrollo de contenidos  creativos   | 🚴🚶Spinning y largas caminatas con música
