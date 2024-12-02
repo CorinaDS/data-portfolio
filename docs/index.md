@@ -43,7 +43,7 @@ hide:
 - title: Apps
   content: Una mirada a mis aplicativos web 
   image: https://emojisup.org/images/emoji/skype/emoticons-1-2/globe-with-meridians@2x.png
-  url: ./chapter_01/intro/
+  url: ./portfolio/webapps/
 
 ::/cards::
 
