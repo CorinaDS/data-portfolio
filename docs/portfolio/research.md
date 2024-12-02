@@ -63,7 +63,7 @@
 <hr size="30">
 <p>
     <img src="https://osjournal.org/img/OSJ_logo.png" alt="Smiley face image"
-      style="float:left; width:110px; height:55px;">
+      style="float:left; width:120px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Sentinel-1 data to support monitoring deforestation in tropical humid forests</strong><br>
