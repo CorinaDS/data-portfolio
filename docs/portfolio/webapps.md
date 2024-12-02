@@ -13,7 +13,7 @@ toc_icon: "bookmark"
 
 <div style="text-align: justify">Desarollé este aplicativo(app) para una institución gubernamental del Perú con el propósito que atraves de la app  puedan realizar una detección de fuego casi en tiempo casi real , permitiéndoles visualizar focos de calor con alta probabilidad de ser grandes incendios forestales. El aplicativo permite realizar el análisis a nivel de cada Departamento y de todo el Perú,  adicionalmente se incorpora información para contextualizar el tipo de cobertura vegetal que viene siendo afectada o si el evento se encuentra sucediendo dentro de un área natural protegida.</div>
 
-<center><img src="../portfolio/app_goes.png"/></center> 
+<center><img src="https://github.com/CorinaDS/data-portfolio/blob/main/docs/portfolio/app_goes.png"/></center>  
 
 ---
 ### ⭐️ Project 2
@@ -22,4 +22,4 @@ toc_icon: "bookmark"
 
 <div style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor mi tincidunt pellentesque finibus. Phasellus interdum, erat sit amet sollicitudin facilisis, massa urna luctus diam, et elementum justo tortor sed dui. Proin faucibus consectetur massa in molestie. Etiam viverra erat vel felis aliquet lobortis.</div>
 
-<center><img src="../../docs/images/logo_rs.jpg"/></center>   
+<center><img src="https://github.com/CorinaDS/data-portfolio/blob/main/docs/portfolio/app_goes.png"/></center>   
