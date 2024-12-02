@@ -18,9 +18,7 @@ hide:
 ✨ Ingeniería de Aprendizaje automático.  <br> 
 ✨ Computación en la nube . <br> 
 ✨ Procesamiento del lenguaje natural e investigación reproducible. <br> 
-✨ Modelamiento espacial de especies,  incendios forestales y deforestación. <br> 
-
-
+✨ Modelamiento espacial de especies,  incendios forestales y deforestación. <br/><br/><br/><br/>
 
 ## **Información de contacto**  
 
