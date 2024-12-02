@@ -18,10 +18,12 @@ Desarollé este aplicativo aplicativo (app) para una institución gubernamental 
 <center><img src="https://raw.githubusercontent.com/CorinaDS/data-portfolio/refs/heads/main/docs/portfolio/app_goes.png"/></center>  
 
 ---
-### ⭐️ Project 2
+### ⭐️ Incendios forestales en Perú: monitoreo de aerosoles y gases traza
 
-[![Run in Google Colab](https://img.shields.io/badge/Google_earth_engine-Aplicativo_para_monitoreo_del_fuego-blue?logo=Google&logoColor=FDBA18)](https://databosque.users.earthengine.app/view/focosgoes)
+[![Run in Google Colab](https://img.shields.io/badge/Google_earth_engine-Aplicativo_para_monitoreo_de_aerosoles-blue?logo=Google&logoColor=FDBA18)](https://databosque.users.earthengine.app/view/aerosoles)
 
-<div style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor mi tincidunt pellentesque finibus. Phasellus interdum, erat sit amet sollicitudin facilisis, massa urna luctus diam, et elementum justo tortor sed dui. Proin faucibus consectetur massa in molestie. Etiam viverra erat vel felis aliquet lobortis.</div>
+[***Ir al aplicativo***](https://databosque.users.earthengine.app/view/aerosoles) 
+<div style="text-align: justify">
+Desarollé este aplicativo (app) para una institución gubernamental del Perú con el propósito que a través de la app  puedan realizar una detección de alta concentración de aerosoles y mónoxido de carbono relacionados a incendios forestales. El aplicativo permite  visualizar hasta tres días de aerosoles y monóxido de carbono a la par de los focos de calor ocurridos en aquellos días, permitiendo  el análisis de la posible magnitud de incendios forestales ocurridos en estos días.</div>
 
-<center><img src="https://raw.githubusercontent.com/CorinaDS/data-portfolio/refs/heads/main/docs/portfolio/app_goes.png"/></center>   
+<center><img src="https://raw.githubusercontent.com/CorinaDS/data-portfolio/refs/heads/main/docs/portfolio/app_gases.png"/></center>  
