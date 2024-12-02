@@ -5,7 +5,8 @@ hide:
 ---
 #
 ## **Acerca de mí** 
-![Image title](https://avatars.githubusercontent.com/u/176454459?v=4){ align=left }
+![avatar](https://avatars.githubusercontent.com/u/176454459?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+){ align=left }
 
 **Áreas de especialización**:  <br>📊 Estadística  📰Ciencia de datos 🌏Análisis de datos espaciales<br />
 **Trabajo actual**:  <br>💻 Consultora e Instructora en estadística y ciencia de datos (Código Bosque)
