@@ -5,7 +5,7 @@ hide:
 ---
 
 
-### 🚀️ Presentación
+### 👋 Presentación
 
 ::cards:: cols=4
 
@@ -47,7 +47,7 @@ hide:
 
 ::/cards::
 
-###  🚀️ Blogs
+###  ✍️ Blogs
 
 ::cards:: cols=4
 
