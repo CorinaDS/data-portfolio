@@ -15,8 +15,8 @@ copyright: "Copyright &copy; 2024 Corina Navarrete"
 theme:
   name: material
   language: es
-  logo: images/logo_rs.jpg
-  favicon: images/logo_rs.jpg
+  logo: images/favicon.png
+  favicon: images/favicon.png
   features:
   - search.suggest
   - search.highlight
