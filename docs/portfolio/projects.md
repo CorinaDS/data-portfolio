@@ -17,7 +17,8 @@ Lorem ipsum dolor sit amet [***xxxxxxxxxxxxxxxxxxxxxx***](https://github.com/Cor
 
 **Subtitle 2** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor mi tincidunt pellentesque finibus. Phasellus interdum, erat sit amet sollicitudin facilisis, massa urna luctus diam, et elementum justo tortor sed dui. Proin faucibus consectetur massa in molestie. Etiam viverra erat vel felis aliquet lobortis.([GitHub](https://github.com/CorinaDS/data-portfolio/)).
 
-<center><img src="../images/logo_rs.jpg"/></center> 
+<center><img src="../../docs/images/logo_rs.jpg" alt="Smiley face image"
+      style="float:left; width:90px; height:90px;"></center> 
 
 ---
 ### ⭐️ Project 2
