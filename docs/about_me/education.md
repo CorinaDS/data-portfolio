@@ -13,8 +13,6 @@
 </p>
 
 <hr size="30">
-
-
 <p>
     <img src="https://tusdecisionestehacengrande.ucsp.edu.pe/img/logo-ucsp.png" alt="Smiley face image"
       style="float:left; width:110px; height:55px;">
