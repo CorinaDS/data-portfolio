@@ -20,13 +20,13 @@ Lorem ipsum dolor sit amet [***xxxxxxxxxxxxxxxxxxxxxx***](https://github.com/Cor
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Unalm_logo.png"/></center> 
 
 ---
-### ⭐️ Project 2
+### ⭐️ Project 2 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://github.com/CorinaDS/data-portfolio/)
 
 <div style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor mi tincidunt pellentesque finibus. Phasellus interdum, erat sit amet sollicitudin facilisis, massa urna luctus diam, et elementum justo tortor sed dui. Proin faucibus consectetur massa in molestie. Etiam viverra erat vel felis aliquet lobortis.</div>
 
-<center><img src="../../docs/images/logo_rs.jpg"/></center>   
+<center><img src="../../docs/images/favicon.png"/></center>   
 
 ---
 ### ⭐️ Project 3

@@ -22,7 +22,7 @@ hide:
 - title: Experiencia
   content: Experiencias laborales
   image: https://emojisup.org/images/emoji/facebook/13-1/woman-office-worker-medium-skin-tone@2x.png
-  url: ./chapter_01/intro/
+  url: ./about_me/experience/
 
 ::/cards::
 
