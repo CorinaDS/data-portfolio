@@ -16,19 +16,18 @@ Algunos centros laborales en mi experiencia profesional han sido:
 
 ---
 <div align="left">
-  <img src="https://media.licdn.com/dms/image/v2/C4D0BAQHFJA_XOkK3GQ/company-logo_200_200/company-logo_200_200/0/1631304673404?e=1741219200&v=beta&t=1J8dBXQgEwbvGhCCBsStPMqlIL5wMsGE8pnwD_UgDE0" height="20" alt="javascript logo"  />
+  <img src="https://media.licdn.com/dms/image/v2/C4D0BAQHFJA_XOkK3GQ/company-logo_200_200/company-logo_200_200/0/1631304673404?e=1741219200&v=beta&t=1J8dBXQgEwbvGhCCBsStPMqlIL5wMsGE8pnwD_UgDE0" height="20" alt="javascript logo"/>
+  <img width="7"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGoYfgnfcE1SQ/company-logo_200_200/company-logo_200_200/0/1664572009804?e=1741219200&v=beta&t=9Su0TINMPcLQuuDAHHYyiVNQ1JVsrOLjm5yfBj2tqHw" height="20" alt="typescript logo"/>
+  <img width="7"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHiRbko8_wgug/company-logo_200_200/company-logo_200_200/0/1723475945238/minamperu_logo?e=1741219200&v=beta&t=ksKtHZcnY44pdhCrsEESDDvZeQE4NPsP8V9vL29esD8" height="20" alt="react logo"/>
   <img width="7" />
-  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGoYfgnfcE1SQ/company-logo_200_200/company-logo_200_200/0/1664572009804?e=1741219200&v=beta&t=9Su0TINMPcLQuuDAHHYyiVNQ1JVsrOLjm5yfBj2tqHw" height="20" alt="typescript logo"  />
-  <img width="7" />
-  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHiRbko8_wgug/company-logo_200_200/company-logo_200_200/0/1723475945238/minamperu_logo?e=1741219200&v=beta&t=ksKtHZcnY44pdhCrsEESDDvZeQE4NPsP8V9vL29esD8" height="20" alt="react logo"  />
-  <img width="7" />
-  <img src="https://www.undp.org/sites/g/files/zskgke326/files/2022-04/pnud-logo-blue.svg" height="20" alt="nextjs logo"  />
+  <img src="https://www.undp.org/sites/g/files/zskgke326/files/2022-04/pnud-logo-blue.svg" height="20" alt="nextjs logo"/>
+</div>
 
 ---
 
-
 Una imagen que trata de reflejar visualmente mis tópicos de experiencia:
-
 
 <center><img src="https://raw.githubusercontent.com/CorinaDS/data-portfolio/refs/heads/main/docs/about_me/collage_corina.png"/></center>  
 
