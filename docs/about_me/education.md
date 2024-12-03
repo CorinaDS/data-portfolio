@@ -62,10 +62,10 @@
   </span>
 </p>
 
-* Diploma en Advanced Data Science
-* Deep learning, series de tiempo y NLP
-* Machine learning Inmersion
-* Deep Learning Inmersion
+✅ Diploma en Advanced Data Science
+✅ Deep learning, series de tiempo y NLP
+✅ Machine learning Inmersion
+✅ Deep Learning Inmersion
 
 
 <hr size="30">
@@ -80,14 +80,14 @@
   </span>
 </p>
 
-* Análisis de datos con R 
-* Programación con R 
-* Data Mining con R
- * Árboles de clasificación con R 
- * Técnicas multivariadas con R
-* Diseños experimentales con R 
- *  Estadística no paramétrica con R
- * Series de tiempo con R
+✅ Análisis de datos con R 
+✅ Programación con R 
+✅ Data Mining con R
+✅ Árboles de clasificación con R 
+✅ Técnicas multivariadas con R
+✅ Diseños experimentales con R 
+✅  Estadística no paramétrica con R
+✅ Series de tiempo con R
 
 
 <hr size="30">
@@ -102,9 +102,9 @@
   </span>
 </p>
 
-* Cloud Computing: AWS - Azure - Google Cloud
-* ArcGIS 
-* Autocad 
+✅ Cloud Computing: AWS - Azure - Google Cloud
+✅ ArcGIS 
+✅ Autocad 
 
 
 <hr size="30">
@@ -118,7 +118,7 @@
   </span>
 </p>
 
-* Train the Trainers
+✅ Train the Trainers
 
 <hr size="30">
 
@@ -131,6 +131,6 @@
   </span>
 </p>
 
-* Desarrollo web con python
+✅ Desarrollo web con python
 
 <br>
