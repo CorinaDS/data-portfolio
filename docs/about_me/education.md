@@ -50,7 +50,7 @@
 </p>
 
 
-## Certificaciones
+## **Certificaciones** 
 
 
 <p>
@@ -134,3 +134,19 @@
 ✅ Desarrollo web con python
 
 <br>
+
+## **Tecnologías**
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![SQLAlchemy Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=for-the-badge)
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)
+![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge)
+![Quarto Badge](https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=fff&style=for-the-badge)
+![Material for MkDocs Badge](https://img.shields.io/badge/Material%20for%20MkDocs-526CFE?logo=materialformkdocs&logoColor=fff&style=for-the-badge)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)
+![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=for-the-badge)
+![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
