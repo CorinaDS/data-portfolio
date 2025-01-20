@@ -40,4 +40,4 @@ hide:
   image: https://emojisup.org/images/emoji/skype/emoticons-1-2/globe-with-meridians@2x.png
   url: ./portfolio/webapps/
 
-::/cards::
+::/cards:: 
