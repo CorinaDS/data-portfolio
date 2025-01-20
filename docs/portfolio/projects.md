@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-## 📈Sample 1
+## 📈 Data Science
 
 ### ⭐️ Project 1
 
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet [***xxxxxxxxxxxxxxxxxxxxxx***](https://github.com/Cor
 <br>
 
 ---
-## 📈 Sample 2
+## 📈 Natural language processing
 
 ### ⭐️ Project 1
 
@@ -97,7 +97,7 @@ Lorem ipsum dolor sit amet [***xxxxxxxxxxxxxxxxxxxxxx***](https://github.com/Cor
 <br>
 
 ---
-## 📈 Sample 3
+## 📈 Web scraping 
 
 [![xxxxxxxxx](https://img.shields.io/badge/YouTube-Datos_en_escena-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/@Datosenescena)
 
