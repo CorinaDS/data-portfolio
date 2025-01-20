@@ -9,7 +9,7 @@
 
 </p>
 
-## About Me:
+## About Me:  
 
-* 🌍 I'm based in Perú
+* 🌍 I'm based in Perú 
 * 🧠 I'm learning Computer science, Cloud computing and AI engineering.
