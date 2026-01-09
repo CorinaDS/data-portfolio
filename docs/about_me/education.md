@@ -40,7 +40,7 @@
 
 <hr size="30">
 <p>
-    <img src="https://tusdecisionestehacengrande.ucsp.edu.pe/img/logo-ucsp.png" alt="Smiley face image"
+    <img src="https://univerperu.com/wp-content/uploads/2023/07/Universidad-Catolica-San-Pablo-UCSP.png" alt="Smiley face image"
       style="float:left; width:110px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
@@ -80,11 +80,9 @@
 
 
 <p>
-  <img src="https://dmc.pe/wp-content/uploads/2021/01/Group-4-1.png" alt="Smiley face image"
-    style="float:left; width:90px; height:40px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>DMC Perú </strong><br>
-    &nbsp;Certificaciones digitales
+    &nbsp;Certificaciones 
   </span>
 </p>
 
@@ -98,11 +96,9 @@
 
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Unalm_logo.png" alt="Smiley face image"
-    style="float:left; width:55px; height:55px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>Universidad Nacional Agraria La Molina</strong><br>
-    &nbsp;Certificaciones físicas
+    &nbsp;Certificaciones 
   </span>
 </p>
 
@@ -120,11 +116,9 @@
 
 
 <p>
-  <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102020/universidad_nacional_de_ingenieria.png?4sLEuqGCUITDDVp6g.xe2HyZoNusQjDi&itok=_BI1xjnI" alt="Smiley face image"
-    style="float:left; width:55px; height:55px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>Universidad Nacional de Ingeniería</strong><br>
-    &nbsp;Certificaciones digitales
+    &nbsp;Certificaciones 
   </span>
 </p>
 
@@ -136,11 +130,9 @@
 <hr size="30">
 
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/universidad-esan.svg" alt="Smiley face image"
-    style="float:left; width:65px; height:60px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>Universidad ESAN</strong><br>
-    &nbsp;Certificación digital
+    &nbsp;Certificación 
   </span>
 </p>
 
@@ -149,11 +141,9 @@
 <hr size="30">
 
 <p>
-  <img src="https://uploads-ssl.webflow.com/61bceaebf406fb1dd5db2dd0/625f3d4b7fe767a55bbd8995_Logo%20PUCP-poster-00001.jpg" alt="Smiley face image"
-    style="float:left; width:80px; height:60px;">
   <span style="vertical-align:bottom">
     &nbsp;<strong>Pontificie Universidad Católica del Perú</strong><br>
-    &nbsp;Certificación digital
+    &nbsp;Certificación 
   </span>
 </p>
 
