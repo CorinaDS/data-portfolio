@@ -28,8 +28,6 @@
 ## **Educación** 
 
 <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Unalm_logo.png" alt="Smiley face image"
-      style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Maestría en Estadística Aplicada</strong><br>
@@ -40,8 +38,6 @@
 
 <hr size="30">
 <p>
-    <img src="https://univerperu.com/wp-content/uploads/2023/07/Universidad-Catolica-San-Pablo-UCSP.png" alt="Smiley face image"
-      style="float:left; width:110px; height:100px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Diplomado en  Ciencia de datos</strong><br>
@@ -52,8 +48,6 @@
 
 <hr size="30">
 <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/INEI_Logo.jpg" alt="Smiley face image"
-      style="float:left; width:90px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Especialización en Estadística Aplicada</strong><br>
@@ -65,8 +59,6 @@
 <hr size="30">
 
 <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Unalm_logo.png" alt="Smiley face image"
-      style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Ingeniería forestal</strong><br>
