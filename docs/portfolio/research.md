@@ -2,7 +2,7 @@
 ## **Investigación** 
 
 <p>
-    <img src="https://www.cgiar.org/wp/wp-content/themes/cgiar/assets/images/logo-04dd455e58-04dd455e58.png" alt="Smiley face image"
+    <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
       style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
@@ -14,7 +14,7 @@
 
 <hr size="30">
 <p>
-    <img src="https://www.cgiar.org/wp/wp-content/themes/cgiar/assets/images/logo-04dd455e58-04dd455e58.png" alt="Smiley face image"
+    <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
       style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
@@ -26,7 +26,7 @@
 
 <hr size="30">
 <p>
-    <img src="https://www.cgiar.org/wp/wp-content/themes/cgiar/assets/images/logo-04dd455e58-04dd455e58.png" alt="Smiley face image"
+    <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
       style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
@@ -38,7 +38,7 @@
 
 <hr size="30">
 <p>
-    <img src="https://www.cgiar.org/wp/wp-content/themes/cgiar/assets/images/logo-04dd455e58-04dd455e58.png" alt="Smiley face image"
+    <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
       style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
@@ -50,7 +50,7 @@
 
 <hr size="30">
 <p>
-    <img src="https://www.cgiar.org/wp/wp-content/themes/cgiar/assets/images/logo-04dd455e58-04dd455e58.png" alt="Smiley face image"
+    <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
       style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
