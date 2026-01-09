@@ -3,7 +3,7 @@
 
 <p>
     <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
-      style="float:left; width:55px; height:55px;">
+      style="float:left; width:100px; height:70px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Análisis de los factores impulsores de la migración en el Perú: Un Estudio de los Flujos Migratorios desde Áreas Rurales hacia la Selva y Lima</strong><br>
