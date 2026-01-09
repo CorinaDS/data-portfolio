@@ -5,7 +5,7 @@ hide:
 ---
 #
 ## **Acerca de mí** 
-![avatar](../images/photo.png){ align=left }
+![avatar](../images/collage_corina_n.jpeg){ align=left }
 **Áreas de especialización**:  <br>📊 Estadística  📰Ciencia de datos 🌏Análisis de datos espaciales<br />
 
 **Intereses y actividades** 
