@@ -2,8 +2,6 @@
 ## **Investigación** 
 
 <p>
-    <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
-      style="float:left; width:100px; height:70px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Análisis de los factores impulsores de la migración en el Perú: Un Estudio de los Flujos Migratorios desde Áreas Rurales hacia la Selva y Lima</strong><br>
@@ -14,8 +12,6 @@
 
 <hr size="30">
 <p>
-    <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
-      style="float:left; width:100px; height:70px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Dataset for: Analysis of the Driving Factors of Migration in Peru A Study of Migratory Flows from Rural Areas to the Jungle and Lima</strong><br>
@@ -26,8 +22,6 @@
 
 <hr size="30">
 <p>
-    <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
-      style="float:left; width:100px; height:70px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Deforestación en la Amazonia Peruana: Modelamiento de Promotores</strong><br>
@@ -38,8 +32,6 @@
 
 <hr size="30">
 <p>
-    <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
-      style="float:left; width:100px; height:70px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Deforestation in the Peruvian Amazon: Modeling of Drivers</strong><br>
@@ -50,8 +42,6 @@
 
 <hr size="30">
 <p>
-    <img src="https://www.cgiar.org/sites/g/files/fvypus371/files/2025-07/logo-cip-black_0.svg" alt="Smiley face image"
-      style="float:left; width:100px; height:70px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Factores que impulsan la migración de la sierra a la selva en el Perú – Nota conceptual del estudio</strong><br>
@@ -62,8 +52,6 @@
 
 <hr size="30">
 <p>
-    <img src="https://osjournal.org/img/OSJ_logo.png" alt="Smiley face image"
-      style="float:left; width:140px; height:70px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Sentinel-1 data to support monitoring deforestation in tropical humid forests</strong><br>
@@ -74,8 +62,6 @@
 
 <hr size="30">
 <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Unalm_logo.png" alt="Smiley face image"
-      style="float:left; width:55px; height:55px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Distribución potencial de especies forestales amenazadas y endémicas raras mediante modelos de nicho ecológico</strong><br>
