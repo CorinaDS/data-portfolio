@@ -71,7 +71,7 @@
   <span style="vertical-align:bottom">
     &nbsp;<strong>Ingeniería forestal</strong><br>
     &nbsp;Universidad Nacional Agraria La Molina  2016<br>
-    &nbsp;Línea de especialización: datos y tecnologías.
+    &nbsp;Línea de especialización: Ciencia de datos y cambio climático.
   </span>
 </p>
 
