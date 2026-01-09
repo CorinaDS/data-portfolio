@@ -41,7 +41,7 @@
 <hr size="30">
 <p>
     <img src="https://univerperu.com/wp-content/uploads/2023/07/Universidad-Catolica-San-Pablo-UCSP.png" alt="Smiley face image"
-      style="float:left; width:110px; height:55px;">
+      style="float:left; width:110px; height:80px;">
   </a>
   <span style="vertical-align:bottom">
     &nbsp;<strong>Diplomado en  Ciencia de datos</strong><br>
