@@ -5,9 +5,9 @@ hide:
 ---
 #
 ## **Acerca de mí** 
-![avatar](../images/photo.png){ align=left }
+![avatar](../images/collage_corina_n.jpeg){ align=left }
 **Áreas de especialización**:  <br>📊 Estadística  📰Ciencia de datos 🌏Análisis de datos espaciales<br />
-**Trabajo actual**:  <br>💻 Consultora e Instructora en estadística y ciencia de datos (Código Bosque)<br/><br/>
+
 **Intereses y actividades** 
 
 👩‍💻🎓💝 Desarrollo de contenidos  creativos   | 🚴🚶Spinning y largas caminatas con música

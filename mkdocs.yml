@@ -1,6 +1,6 @@
 
 #Site description
-site_name: Un tour por la ciencia de datos
+site_name: Corina Navarrete
 site_description: Página personal, con enlace a mis proyectos e información acerca de mí
 site_author: Corina Navarrete
 site_url: https://corinads.github.io/data-portfolio
@@ -109,7 +109,6 @@ nav:
     - 🏠 Inicio: index.md
     - 👋 Presentación: /data-portfolio/#presentation
     - 🚀️ Portafolio: /data-portfolio/#portfolio
-    - ✍️ Blogs: /data-portfolio/#blogs
 
 
 
